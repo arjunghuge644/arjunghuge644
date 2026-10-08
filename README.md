@@ -2,7 +2,7 @@
 
 ### Software Engineer • Backend Developer • AI/ML Enthusiast
 
-I’m a **Third-Year Information Technology Engineering student at PES Modern College of Engineering, Pune**, passionate about building practical software, backend systems, and AI-powered applications.
+I’m a **Final-Year Information Technology Engineering student at PES Modern College of Engineering, Pune**, passionate about building practical software, backend systems, and AI-powered applications.
 
 I enjoy turning ideas into working products — from **real-time communication systems and developer platforms to machine learning experiments and automation tools**. I’m currently focused on strengthening my **DSA, backend engineering, system design, cloud technologies, and AI/ML** skills.
 
